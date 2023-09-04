@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Arduino Automatization '
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Rafael
+    family-names: Bie
+    email: strangelf47829@gmail.com
+    name-particle: de
+repository-code: 'https://github.com/strangelf47829/Arduino-Automation'
+license: Unlicense
+date-released: '2023-09-04'
