@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For Automation
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PWMSignal	KEYWORD1
+Dial	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+refresh	KEYWORD2
+
+setValue	KEYWORD2
+switchToBuffered	KEYWORD2
+
+setReference	KEYWORD2
+switchToExternal	KEYWORD2
+
+setCoefficients	KEYWORD2
+
+switchToLinear	KEYWORD2
+switchToLogarithmic	KEYWORD2
+switchToExponential	KEYWORD2
+switchToCustom	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
